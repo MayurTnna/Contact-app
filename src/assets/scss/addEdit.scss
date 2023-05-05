@@ -1,0 +1,21 @@
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+
+  label {
+    color: brown;
+    font-weight: bold;
+    padding: 5px;
+  }
+  input {
+    padding: 10px;
+    background-color: rgb(242, 239, 237);
+    border-radius: 5px;
+    border: 0px;
+  }
+  .submitButton {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+}
